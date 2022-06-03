@@ -11,5 +11,11 @@ public abstract class Characters {
     double energyRecharge;
     double dmg;
 
-    public abstract double skill();
+    public abstract double talent();
+
+    public abstract double skill1();
+
+    public abstract double skill2();
+
+    public abstract double skill3();
 }
